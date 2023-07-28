@@ -1,9 +1,9 @@
 # Aljabar Matriks-v-2.0
-Adanya pembaruan perihal:
+There is an update regarding:
 ***
-* Penambahan fungsi
-* Pembaruan Tampilan _UI & UX_
-* Penggunaan _Fraction_ for value
+* Added function
+* Updated _UI & UX_ Appearance
+* Use of _Fraction_ for value
 ***
 
 This project is intended for college assignments, and has simple display features.
