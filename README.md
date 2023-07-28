@@ -1,4 +1,4 @@
-# aljabar_matrix-v-2.0
+# Aljabar Matriks-v-2.0
 Adanya pembaruan perihal:
 ***
 * Penambahan fungsi
