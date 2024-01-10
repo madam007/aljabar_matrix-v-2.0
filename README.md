@@ -50,6 +50,6 @@ chmod +x Apache-NetBeans-16.0-bin-linux-x64.sh
 ![form 5](https://www.bengkelti.com/wp-content/uploads/2021/10/Screenshot_2021-10-24_06-30-03.png)
 
 ## Use Libary for Netbeans
-Fraction : https://jar-download.com
+Fraction : https://www.baeldung.com/apache-commons-math
 
 
